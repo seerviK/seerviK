@@ -26,8 +26,7 @@ I am currently pursuing a Bachelor's in Computer Science and Engineering, focusi
 
 ### 💡 Projects
 
-- **[Student Attendance System using Face Recognition](https://github.com/kamlesh-project/attendance-face-recognition):** Developed a system to automate attendance using ML, OpenCV, and Python.
-- **[Water Footprint Calculator](https://github.com/kamlesh-project/water-footprint-calculator):** A web-based calculator that helps users track their water usage, built with JavaScript, MongoDB, and Node.js.
+For Projects visit my repositores so created
 
 ---
 ### 📫 How to Reach Me
